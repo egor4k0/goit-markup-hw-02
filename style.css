@@ -5,26 +5,37 @@ font-family: Roboto, sans-serif;
 font-size: 16px;
  line-height: 24px;
   letter-spacing: 2%;
+color: #434455;
+background-color:#FFFFFF
+
 }
 a{
 text-decoration: none;
 }
-h1{
+.hhh{
     font-weight: Bold;
     font-size: 56px;
     line-height:60px;
     color: white;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em
 }
 
 
-h2{
+.hhhh{
     font-weight: Bold;
     font-size: 36px; 
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    
 }
-h3{
-    font-weight: Medium;
-    font-size: 20px;
-}
+
 p{
     font-size:Regular;
     font-size: 12px; 
@@ -33,27 +44,41 @@ p{
 }
 
 nav ul a{
+letter-spacing: 0.02em;
+font-weight: 500;
 color: rgb(46, 47, 66);
 }
 
-nav ul a:hover {
-    color: rgb(64, 75, 191)
+nav ul a:hover:focus {
+    color: #404bbf
 }
-address ul a{
-    color: rgb(46, 47, 66);
+.tel-num{
+    font-style: normal
 }
-address ul a:hover {
-    color: rgb(64, 75, 191)
+
+.ad-tel{
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.tel-num ul a{
+    color: #2e2f42;
+}
+.tel-num ul a:hover {
+    color: #404abf
 }
 .section-title{
     background-color: #2E2F42;
 }
-.btn1{
+.btn{
     background: rgb(77, 90, 229);
     color: white;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer
 }
-.btn1:hover{
-   background: rgb(64, 75, 191); 
+.btn:hover{
+background-color: #404BBF
 }
 .team-block img{
     width: 264px;
@@ -63,24 +88,68 @@ address ul a:hover {
     width:360px ;
     height:300px ;
 }
+
+
 #Team{
   background-color:  rgb(244, 244, 253);
+}
+.team-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
 }
 footer{
    background-color:  rgb(46, 47, 66);
 }
-.Web{
-    color: rgb(77, 90, 229);
+.web{
+    color: #2e2f42;
    
 }
 .logo{
+
     color: rgb(46, 47, 66);
     text-decoration: none;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:#4d5ae5;
 }
 
 .logo2{
-    color: white
+    color: rgb(46, 47, 66);
+        text-decoration: none;
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+}
+.webb{
+     color: #f4f4fd;
 }
 footer p{
     color: white;
+    line-height: 1.5;
+    color:#F4F4FD;
+    letter-spacing: 0.02em;
+}
+.product{
+    background-color: #FFFFFF;
+
+}
+
+.thrp{
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455
 }
