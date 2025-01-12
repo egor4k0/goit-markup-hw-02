@@ -52,6 +52,7 @@ color:#2e2f42;
 .nav-a:focus{
     color: #404bbf;
 }
+
 .nav-a:hover{
 color: #404bbf;
 }
@@ -63,16 +64,23 @@ color: #404bbf;
 .ad-tel{
     letter-spacing: 0.02em;
     color: #434455;
+} 
+
+.ad-tel:hover {
+    color: #404bbf
+}
+
+.ad-tel:hover:focus {
+    color: #404bbf
 }
 .tel-num ul a{
     color:#434455;
 }
-.tel-num ul a:hover:focus {
-    color: #404bbf
-}
+
 .section-title{
     background-color: #2E2F42;
 }
+
 .btn{
     background: #4d5ae5;
     color: white;
@@ -81,6 +89,7 @@ color: #404bbf;
     letter-spacing: 0.04em;
     cursor: pointer
 }
+
 .btn:hover:focus{
 background-color: #404BBF
 }
