@@ -111,7 +111,7 @@ background-color: #404BBF
 }
 
 
-#team{
+.team{
 background-color: #F4F4FD
 }
 
@@ -168,10 +168,7 @@ background-color: #F4F4FD
     color:#2e2f42;
 }
 
-.features ul {
-    list-style: none;
-    padding: 0;
-}
+
 
 .feature-title {
     font-weight: 500;
