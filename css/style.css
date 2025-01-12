@@ -12,14 +12,14 @@ background-color:#FFFFFF
 a{
 text-decoration: none;
 }
-.hhh{
+.title-h{
     font-weight: Bold;
     font-size: 56px;
     line-height:60px;
-    color: white;
+    color: #ffffff;
     line-height: 1.07;
     text-align: center;
-    letter-spacing: 0.02em
+    letter-spacing: 0.02em;
 }
 
 
@@ -70,7 +70,7 @@ color: #404bbf;
     color: #404bbf
 }
 
-.ad-tel:hover:focus {
+.ad-tel:focus {
     color: #404bbf
 }
 .tel-num ul a{
@@ -90,7 +90,10 @@ color: #404bbf;
     cursor: pointer
 }
 
-.btn:hover:focus{
+.btn:hover{
+background-color: #404BBF
+}
+.btn:focus{
 background-color: #404BBF
 }
 
