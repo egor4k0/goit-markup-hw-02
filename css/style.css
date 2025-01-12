@@ -47,6 +47,15 @@ p{
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+.thrp{
+    font-weight: 500;
+    font-size:20 ;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    
+}
 .nav-a{
 letter-spacing: 0.02em;
 font-weight: 500;
@@ -103,7 +112,7 @@ background-color: #404BBF
 
 
 #team{
-  background-color:  rgb(244, 244, 253);
+background-color: #F4F4FD
 }
 
 .footer{
