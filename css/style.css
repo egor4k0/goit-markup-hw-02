@@ -43,15 +43,19 @@ p{
     letter-spacing: 4%;
 }
 
-nav ul a{
+.nav-a{
 letter-spacing: 0.02em;
 font-weight: 500;
-color: #2e2f42;
+color:#434455;
 }
 
-nav ul a:hover:focus {
-    color: #404bbf
+.nav-a:focus{
+    color: #404bbf;
 }
+.nav-a:hover{
+color: #404bbf;
+}
+
 .tel-num{
     font-style: normal
 }
