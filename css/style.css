@@ -80,17 +80,9 @@ nav ul a:hover:focus {
 .btn:hover:focus{
 background-color: #404BBF
 }
-.team-block img{
-    width: 264px;
-    height:260px;
-}
-.portfolio-block img{
-    width:360px ;
-    height:300px ;
-}
 
 
-#Team{
+#team{
   background-color:  rgb(244, 244, 253);
 }
 
